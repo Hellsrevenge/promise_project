@@ -1,0 +1,11 @@
+.new-event-button {
+    background: #4268d2;
+    color: #fff;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 0 11px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
